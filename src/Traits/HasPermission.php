@@ -1,5 +1,5 @@
 <?php
-namespace Nguyen930411\Acl\Traits;
+namespace Dothanhtai\Acl\Traits;
 
 use Auth;
 

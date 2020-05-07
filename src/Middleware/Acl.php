@@ -1,5 +1,5 @@
 <?php
-namespace Nguyen930411\Acl\Middleware;
+namespace Dothanhtai\Acl\Middleware;
 
 use Closure;
 use Auth;
